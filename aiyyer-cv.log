@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2020.1.31)  12 FEB 2021 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2020.1.31)  24 JAN 2022 08:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -225,18 +225,12 @@ Overfull \vbox (2.17232pt too high) has occurred while \output is active []
 [1
 
 ]
-Overfull \hbox (5.83386pt too wide) in paragraph at lines 84--86
+Overfull \hbox (5.83386pt too wide) in paragraph at lines 83--85
 []\OT1/cmr/m/n/10 Origin, Storm track Dy-nam-ics and Con-vec-tive Feed-back of 
 African East-erly Waves [\OT1/cmr/bx/n/10 $481,728\OT1/cmr/m/n/10 ]
  []
 
-) (./papers.tex
-Overfull \hbox (36.41768pt too wide) in paragraph at lines 8--9
-\OT1/cmr/m/n/10 sta-bil-ity and Wavepacket Di-ag-nos-tics, Weather Clim. Dy-nam
-. Dis-cuss. [preprint], https://doi.org/10.5194/wcd-
- []
-
-[2] [3])
+) (./papers.tex [2] [3])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15.
  [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
@@ -256,4 +250,4 @@ Here is how much of TeX's memory you used:
  1137 hyphenation exceptions out of 8191
  41i,5n,51p,371b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on aiyyer-cv.dvi (4 pages, 17700 bytes).
+Output written on aiyyer-cv.dvi (4 pages, 18920 bytes).

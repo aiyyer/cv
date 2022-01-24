@@ -21,6 +21,9 @@
 \ProcessOptions
 \LoadClass{article}
 
+
+
+
 \newcommand\cv@parsep{1.ex}
 \newcommand\cv@subsep{\z@}
 \newcommand\cv@tlssep{.5ex}
@@ -147,6 +150,10 @@
                 leftmargin=2.em,
                 rightmargin=0pt]{etaremune}
 \newenvironment{ilist}{\etaremune{}{}}{\endetaremune}
+
+
+
+
 
 %==============================================================================
 % End `cv.cls'
